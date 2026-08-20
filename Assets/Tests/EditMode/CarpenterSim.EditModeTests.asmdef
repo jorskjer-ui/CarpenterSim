@@ -1,0 +1,13 @@
+{
+  "name": "CarpenterSim.EditModeTests",
+  "rootNamespace": "CarpenterSim.Tests.EditMode",
+  "references": [
+    "CarpenterSim.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}
